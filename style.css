@@ -1,0 +1,31 @@
+#board
+{
+	float:left;
+	background-color: #8f7a66;
+	padding: 10px;
+	margin-bottom: 25px;
+	border-radius: 3%
+}
+#score
+{
+	border:5px solid orange;
+	color:grey;
+	font-size: 30px;
+	margin-top :25px;
+	width: 150px;
+	padding:10px;
+}
+.tiles
+{
+	color: #776e65;
+	    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+	    font-weight: bold;
+}
+.orange
+{
+	background-color: orange;
+}
+.square-container 
+{
+	background-color: #eee4da;
+}
